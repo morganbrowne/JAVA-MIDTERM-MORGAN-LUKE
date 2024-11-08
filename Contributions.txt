@@ -1,0 +1,9 @@
+Luke Metcalfe:
+
+Created the Library.java and the Demo.java files.
+As well as did the project documentation.
+
+
+Morgan Browne:
+
+Created the LibraryItem.java, Author.java and the Patron.java files.
